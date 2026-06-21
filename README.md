@@ -1,2 +1,14 @@
 # team-cn-journal
-HTML page archive and documentation
+
+仓库页面索引说明
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 管理说明
+
+本仓库适合保存多个独立页面，不依赖额外构建流程。
